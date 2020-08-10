@@ -29,7 +29,7 @@ the -e flag is for the environment variable for the microservice port
 - `docker run -p 50053:50053 -e MICRO_SERVER_ADDRESS=:50053 shipping-cli-consignment`
 
 
-## Generating micro files
+## Generating go-micro files
 - ensure you have the following installed
   - `go get github.com/micro/micro/v2`
   - `go get github.com/micro/micro/v2/cmd/protoc-gen-micro@master`
