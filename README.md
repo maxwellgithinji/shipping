@@ -7,6 +7,7 @@
 - [Basic knowledge of microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Docker](https://hasura.io/blog/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c/)
 - [Docker Networking](https://docs.docker.com/network/)
+- [Docker-compose](https://docs.docker.com/compose/install/)
 
 ## Services
 The following are the services and instructions on how to run them
